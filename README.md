@@ -1,3 +1,3 @@
 # exclusao-animada
 
-![](./exclusao-animada.png)
+![](./exclusao-animada.gif)
